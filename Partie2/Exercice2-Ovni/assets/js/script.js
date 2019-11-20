@@ -19,6 +19,5 @@ ctx.moveTo(100,200);
 ctx.quadraticCurveTo(200,270,300,200);
 ctx.moveTo(100,200);
 ctx.quadraticCurveTo(200,140,300,200);
-ctx.closePath();
 ctx.fillStyle = '#e0e1f3';
 ctx.fill();
